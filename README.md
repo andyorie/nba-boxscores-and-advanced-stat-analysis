@@ -13,6 +13,7 @@ The project objectives are as follows:
 
 2. Create python notebooks to perform ML on the master file. 
 
-Note. EDA will be performed using the Tableau BI tool. This analysis will be available via my public profile here: 
-</p>
+Note. EDA will be performed using the Tableau BI tool.</p>
 <a href="https://public.tableau.com/app/profile/andy.orie">Click here to see my Tableau Profile</a>
+<h3>My Data Science Journey Map</h3>
+<img width="1031" alt="Screenshot 2023-02-25 at 11 31 16 AM" src="https://user-images.githubusercontent.com/61837004/222493532-8e32d613-f4f5-4354-ac0d-9dc6db24f6cc.png">
